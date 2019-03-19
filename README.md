@@ -1,1 +1,1 @@
-# -Basic-Course-Repo
+# С++ Base Repo for Homeworks
